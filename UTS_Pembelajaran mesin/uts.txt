@@ -1,0 +1,13 @@
+mencari data yang kosong
+membutuhkan nama atau tidak
+membersihkan titik
+method panda apply
+method rev.sub
+lower case
+steaming 
+lematistation 
+
+library NLTK
+Feature extration : count valf, tf-idf, woed endbeding
+model: dt svm
+evaluasi convusion report
